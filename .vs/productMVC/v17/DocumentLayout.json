@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|c:\\users\\huykien\\source\\repos\\productmvc\\productmvc\\productmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|solutionrelative:productmvc\\productmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "productMVC",
+              "DocumentMoniker": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\productMVC.csproj",
+              "RelativeDocumentMoniker": "productMVC\\productMVC.csproj",
+              "ToolTip": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\productMVC.csproj",
+              "RelativeToolTip": "productMVC\\productMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T10:52:50.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
