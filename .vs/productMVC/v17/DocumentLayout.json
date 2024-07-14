@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|c:\\users\\huykien\\source\\repos\\productmvc\\productmvc\\productmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|solutionrelative:productmvc\\productmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|c:\\users\\huykien\\source\\repos\\productmvc\\productmvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|solutionrelative:productmvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|c:\\users\\huykien\\source\\repos\\productmvc\\productmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|solutionrelative:productmvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|c:\\users\\huykien\\source\\repos\\productmvc\\productmvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|solutionrelative:productmvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|c:\\users\\huykien\\source\\repos\\productmvc\\productmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A0D914-383E-4E3C-8937-077C3D44E7FF}|productMVC\\productMVC.csproj|solutionrelative:productmvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,18 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "productMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "productMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwD0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:42:01.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "productMVC",
-              "DocumentMoniker": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\productMVC.csproj",
-              "RelativeDocumentMoniker": "productMVC\\productMVC.csproj",
-              "ToolTip": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\productMVC.csproj",
-              "RelativeToolTip": "productMVC\\productMVC.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-13T10:52:50.864Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "productMVC\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "productMVC\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T08:41:16.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "productMVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "productMVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T08:41:13.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "productMVC\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HUYKIEN\\source\\repos\\productMVC\\productMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "productMVC\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T08:40:22.726Z",
               "EditorCaption": ""
             }
           ]

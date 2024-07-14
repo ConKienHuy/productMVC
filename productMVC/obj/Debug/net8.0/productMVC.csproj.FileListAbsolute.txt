@@ -135,3 +135,4 @@ C:\Users\HUYKIEN\source\repos\productMVC\productMVC\obj\Debug\net8.0\refint\prod
 C:\Users\HUYKIEN\source\repos\productMVC\productMVC\obj\Debug\net8.0\productMVC.pdb
 C:\Users\HUYKIEN\source\repos\productMVC\productMVC\obj\Debug\net8.0\productMVC.genruntimeconfig.cache
 C:\Users\HUYKIEN\source\repos\productMVC\productMVC\obj\Debug\net8.0\ref\productMVC.dll
+C:\Users\HUYKIEN\source\repos\productMVC\productMVC\obj\Debug\net8.0\productMVC.sourcelink.json
