@@ -82,5 +82,46 @@ namespace productMVC.Controllers
 
             return View(productDTO);
         }
+
+        [HttpPost]
+        public IActionResult Edit(int id, ProductDTO productDTO)
+        {
+            var product = context.Products.Find(id);
+            if(product == null)
+            {
+                return RedirectToAction("Index", "Products");
+            }
+            
+            if(!ModelState.IsValid)
+            {
+                ViewData["id"] = id;
+                ViewData["createdAt"] = productDTO.CreatedAt;
+                return View(productDTO);
+            }
+
+            // Update product data
+            product.Name = productDTO.Name;
+            product.Brand = productDTO.Brand;
+            product.Category = productDTO.Category;
+            product.Price = productDTO.Price;
+            product.Description = productDTO.Description;
+            context.Products.Update(product);
+            context.SaveChanges();
+
+            return RedirectToAction("Index", "Products");
+        }
+
+        public IActionResult Delete(int id)
+        {
+            var product = context.Products.Find(id);
+            if (product == null)
+            {
+                return RedirectToAction("Index", "Products");
+            }
+
+            context.Products.Remove(product);
+            context.SaveChanges(true);
+            return RedirectToAction("Index", "Products");
+        }
     }
 }
